@@ -17,3 +17,11 @@ ArduinoJson: Para formatar os dados em JSON e enviá-los via Serial.
 Exibição dos Dados no LCD: O display LCD mostra os valores de pH, temperatura e oxigenação da água em tempo real.
 
 Envio dos Dados via Serial: Os dados coletados são enviados via Serial em formato JSON para facilitar a integração com outros sistemas.
+
+## Como Usar:
+Montagem do Circuito: Conecte os sensores ao Arduino conforme o mapeamento dos pinos (A0 para oxigenação, A1 para temperatura, A2 para pH).
+
+Carregamento do Código: Faça o upload do código para o Arduino usando a IDE do Arduino.
+
+Monitoramento: Use o Monitor Serial da IDE do Arduino para visualizar os dados em JSON e veja as leituras no display LCD.
+
