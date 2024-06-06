@@ -25,3 +25,7 @@ Carregamento do Código: Faça o upload do código para o Arduino usando a IDE d
 
 Monitoramento: Use o Monitor Serial da IDE do Arduino para visualizar os dados em JSON e veja as leituras no display LCD.
 
+### Integrantes do grupo:
+JOSE ANTONIO KRETZER RODRIGUEZ (RM: 555523)
+
+VICTOR ALVES DE SOUZA (RM: 555761)
